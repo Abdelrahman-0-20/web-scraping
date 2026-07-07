@@ -1,6 +1,4 @@
-streamlit
-yt-dlp
 requests
 beautifulsoup4
-libtorrent
-ffmpeg
+yt-dlp
+streamlit
